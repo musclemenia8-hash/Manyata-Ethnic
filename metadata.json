@@ -1,0 +1,8 @@
+{
+  "name": "MANYATA ETHNIC",
+  "description": "MANYATA ETHNIC — Tradition Meet Modern Elegance. Luxury Indian ethnic-wear boutique featuring Anarkali kurtis, straight kurtis, breathable cotton sets, festive brocades, and flared skirt sets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
